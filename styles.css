@@ -10,7 +10,6 @@
 
     ul {
       padding: 0;
-      text-align: center;
     }
 
     li {
@@ -23,6 +22,14 @@
       color: black;
     }
 
+    .whiteBg{
+		background-color: rgb(255, 255, 255);
+		padding: 15px;
+        border-radius: 10px;
+        max-width: 600px;
+        margin: 20px auto;
+
+	}
     .player_one, .player_two {
       background-color: rgb(255, 255, 255);
       padding: 15px;
